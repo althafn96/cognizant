@@ -1,0 +1,13 @@
+{
+    "name": "PersonalInformation",
+    "alias": "personalinformation",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\PersonalInformation\\Providers\\PersonalInformationServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
