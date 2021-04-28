@@ -1,0 +1,19 @@
+{
+    "name": "Cognizant",
+    "loader": {
+        "type": "spinner-logo",
+        "logo": "media/logos/loading-logo.png",
+        "message": "Please wait..."
+    },
+    "logo": {
+        "dark": "media/logos/logo-light.png",
+        "light": "media/logos/logo-dark.png",
+        "brand": "media/logos/logo-light.png",
+        "green": "media/logos/logo-light.png",
+        "main": "media/logos/logo-main.png"
+    },
+    "loginAside": {
+        "image": "media/bg/bg-login.jpg",
+        "title": "HRM Application"
+    }
+}
